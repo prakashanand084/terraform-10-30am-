@@ -1,0 +1,5 @@
+region        = "us-east-1"
+environment   = "dev"
+instance_type = "t2.micro"
+ami           = "ami-05b10e08d247fb927"
+name          = "my-ec2-instance"
